@@ -1,5 +1,5 @@
-@extends('main')
-@section('content')
+@extends('layouts.main')
+@section('layouts.content')
     <!-- home section -->
 <div id="home">
 	<div class="container">

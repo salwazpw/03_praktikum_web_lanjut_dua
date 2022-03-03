@@ -1,5 +1,5 @@
-@extends('main')
-@section('content')
+@extends('layouts.main')
+@section('layouts.content')
 <!-- contact header section -->
 <div id="contact-header">
 	<div class="container">

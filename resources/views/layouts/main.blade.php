@@ -24,13 +24,13 @@ http://www.templatemo.com/tm-468-onetel
 <body>
 	
 <!-- navigation -->
-@include('navbar')
+@include('layouts.navbar')
 		
 
-@yield('content')	
+@yield('layouts.content')	
 
 <!-- footer section -->
-@include('footer')
+@include('layouts.footer')
 
 <!-- javascript js -->	
 <script src="{{asset('js/jquery.js')}}"></script>

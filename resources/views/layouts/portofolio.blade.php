@@ -1,5 +1,5 @@
-@extends('main')
-@section('content')
+@extends('layouts.main')
+@section('layouts.content')
     <!-- portfolio header section -->
 <div id="portfolio-header">
 	<div class="container">
