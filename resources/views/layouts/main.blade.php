@@ -26,7 +26,7 @@ http://www.templatemo.com/tm-468-onetel
 <!-- navigation -->
 @include('layouts.navbar')
 		
-
+<!--content -->
 @yield('layouts.content')	
 
 <!-- footer section -->

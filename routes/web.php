@@ -21,3 +21,5 @@ Route::get('/portofolio', [App\Http\Controllers\HomeController::class, 'portofol
 Route::get('/about-us', [App\Http\Controllers\HomeController::class, 'about']);
 
 Route::resource('/contact', App\Http\Controllers\ContactController::class);
+
+Route::get('/artikel', [App\Http\Controllers\ArtikelController::class, 'index']);
