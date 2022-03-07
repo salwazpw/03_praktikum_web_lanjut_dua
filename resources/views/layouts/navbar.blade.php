@@ -10,10 +10,10 @@
     </div>
     <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="index.html" class="active">HOME</a></li>
-            <li><a href="about.html">ABOUT US</a></li>
-            <li><a href="portfolio.html">PORTFOLIO</a></li>
-            <li><a href="contact.html">CONTACT</a></li>
+            <li><a class="nav-link" href="home">HOME</a></li>
+            <li><a class="nav-link" href="about-us">ABOUT US</a></li>
+            <li><a class="nav-link" href="portofolio">PORTFOLIO</a></li>
+            <li><a class="nav-link" href="contact">CONTACT</a></li>
         </ul>
     </div>
 </div>

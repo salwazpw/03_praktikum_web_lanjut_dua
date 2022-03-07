@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Onetel Bootstrap Template</title>
+	<title>{{$title}}</title>
     <meta name="keywords" content="">
 	<meta name="description" content="">
 	<meta charset="utf-8">

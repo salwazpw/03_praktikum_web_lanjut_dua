@@ -13,17 +13,17 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('layouts.index');
+        return view('layouts.index', ['title'=>'Home']);
     }
 
     public function portofolio()
     {
-        return view('layouts.portofolio');
+        return view('layouts.portofolio', ['title'=>'Portofolio']);
     }
 
     public function about()
     {
-        return view('layouts.about');
+        return view('layouts.about', ['title'=>'Tentang kami']);
     }
 
     /**
